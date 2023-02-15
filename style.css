@@ -1,0 +1,25 @@
+li{
+    display:inline ;
+    background-color: #d9f99d;
+    margin:0% 10%;
+
+}
+nav{
+    background-color: #d9f99d;
+    width:80vw;
+}
+.belownav{
+    display: flex;
+    width:80vw ;
+flex-wrap: wrap;
+
+
+}
+.container{
+    width:80vw ;
+    height: 25vh;
+    background-color:#e2e8f0 ;
+    border-radius: 2%;
+    margin: 1%;
+    padding: 2%;
+}
